@@ -1,1 +1,3 @@
-console.log('hello world')
+const func = "hello world";
+
+console.log(func);
